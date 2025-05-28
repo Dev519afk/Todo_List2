@@ -6,14 +6,14 @@ A simple, responsive To-Do List web application built using **HTML**, **CSS**, a
 
 ## 🔧 Features
 
-- ✅ Add new tasks
-- ✏️ Edit existing tasks
-- ❌ Delete individual tasks
-- 📦 Persist tasks using `localStorage`
-- 🎯 Mark tasks as complete/incomplete
-- 🧹 Clear all tasks or only completed tasks
-- 📱 Fully responsive layout
-- 🔔 Toast and modal notifications using **Noty.js** and **Toastify**
+-  Add new tasks
+-  Edit existing tasks
+-  Delete individual tasks
+-  Persist tasks using `localStorage`
+-  Mark tasks as complete/incomplete
+-  Clear all tasks or only completed tasks
+-  Fully responsive layout
+-  Toast and modal notifications using **Noty.js** and **Toastify**
 
 ---
 
@@ -31,7 +31,7 @@ A simple, responsive To-Do List web application built using **HTML**, **CSS**, a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Dev519afk/Todo_List2
 cd todo-list-app
 ```
 
