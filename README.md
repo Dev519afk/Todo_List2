@@ -27,13 +27,6 @@ A simple, responsive To-Do List web application built using **HTML**, **CSS**, a
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Dev519afk/Todo_List2
-cd todo-list-app
-```
 
 ### 2. Open the App
 You can simply open `index.html` in your browser:
